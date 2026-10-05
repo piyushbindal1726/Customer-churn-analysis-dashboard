@@ -109,9 +109,9 @@ Some of the major insights identified from the dashboard include:
 
 ---
 
-## 📈 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](Images/customer-churn-dashboard.png)
+![Customer Churn Dashboard](Images/Dashboard.png)
 
 ---
 
